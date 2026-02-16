@@ -8,5 +8,8 @@
 ## Skills
 HTML | CSS | JavaScript | Python
 
+## The below link is the drive link for the self introduction video 
+https://drive.google.com/file/d/1ZMhrrQ5ESrX05tr_ZR2EFbNytKOqfarQ/view?usp=drive_link
+
 ## Contact
-📧 Email: your@email.com
+📧 Email: nagaruna.23bcy10053@vitbhopal.ac.in
